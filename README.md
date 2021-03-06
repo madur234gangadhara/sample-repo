@@ -36,5 +36,11 @@ this is another model of the repository
       - iot
       - embeded system
       - Django 
-       
+  * **ADDING IMG**
+  * <img src=https://resultsnew.com/wp-content/uploads/2018/03/CBIT-VBIT-Proddatur-Admissions.jpg>
+
+
+  *hyper links
+    [APSSDC]()
+    [CBIT]()
          
